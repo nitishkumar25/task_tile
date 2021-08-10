@@ -1,0 +1,6 @@
+Python
+VS-Code or any platform like Pycharm etc.
+Django
+Bootstrap
+HTML
+PostgreSQL
